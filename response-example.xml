@@ -1,0 +1,14 @@
+<imobility-stats-response xmlns="https://github.com/erasmus-without-paper/ewp-specs-api-imobility-stats/tree/stable-v1">
+    <academic-year-stats>
+        <receiving-academic-year-id>2021/2022</receiving-academic-year-id>
+        <imobility-total>109</imobility-total>
+        <imobility-verified>80</imobility-verified>
+        <imobility-rejected>20</imobility-rejected>
+    </academic-year-stats>
+    <academic-year-stats>
+        <receiving-academic-year-id>2022/2023</receiving-academic-year-id>
+        <imobility-total>77</imobility-total>
+        <imobility-verified>60</imobility-verified>
+        <imobility-rejected>15</imobility-rejected>
+    </academic-year-stats>
+</imobility-stats-response>
